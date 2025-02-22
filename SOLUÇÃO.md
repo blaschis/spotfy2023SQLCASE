@@ -172,5 +172,5 @@ FROM (
 
 ---
 
-(TODO: Continuar a tradução para todas as seções restantes mantendo os títulos das colunas e os conteúdos das linhas originais.)
+
 
