@@ -1,4 +1,4 @@
-# Análise de Músicas do Spotify - 2023
+# Análise de dados do Spotify - 2023
 
 <p align="center">
     <img src="https://assets.turbologo.com/blog/en/2021/07/20052636/spotify-brand-1-1-958x575.png" alt="Spotify Logo">
