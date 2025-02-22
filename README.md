@@ -1,13 +1,9 @@
 # Análise de Músicas do Spotify - 2023
 
-<p align="center">  
-	<br>
-	<a href="https://open.spotify.com/">
-        <img src="[https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.YQg9PUaYHoYCyG2SqFWSwwHaDt%26pid%3DApi&f=1&ipt=d62add352227128017bbc009d68f3ca869e386ae81a22badab1b028fa5cba1d3&ipo=images](https://assets.turbologo.com/blog/en/2021/07/20052636/spotify-brand-1-1-958x575.png)">
-    </a>
-    <br>
-    <br>
+<p align="center">
+    <img src="https://assets.turbologo.com/blog/en/2021/07/20052636/spotify-brand-1-1-958x575.png" alt="Spotify Logo">
 </p>
+
 
 ## Sumário
   - [Introdução](#introducao)
