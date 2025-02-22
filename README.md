@@ -24,30 +24,53 @@ O [conjunto de dados](https://www.kaggle.com/datasets/nelgiriyewithana/top-spoti
 
 ### Principais Características
 
-track_name: Nome da música.
-artist_name: Nome do(s) artista(s) da música.
-num_artists: Quantidade de artistas na faixa.
-release_year: Ano de lançamento da música.
-release_month: Mês de lançamento.
-release_day: Dia do mês em que foi lançada.
-spotify_playlists_count: Quantidade de playlists no Spotify contendo a música.
-spotify_chart_position: Posição nas paradas do Spotify.
-streams: Total de reproduções no Spotify.
-apple_playlists_count: Presença em playlists da Apple Music.
-apple_chart_position: Posição nas paradas da Apple Music.
-deezer_playlists_count: Quantidade de playlists no Deezer.
-deezer_chart_position: Posição nas paradas do Deezer.
-shazam_chart_position: Posição nas paradas do Shazam.
-bpm: Batidas por minuto.
-key: Tom da música.
-mode: Modo (maior ou menor).
-danceability_%: Grau de adequação para dança.
-valence_%: Medida de positividade da música.
-energy_%: Intensidade da música.
-acousticness_%: Presença de elementos acústicos.
-instrumentalness_%: Percentual de conteúdo instrumental.
-liveness_%: Elementos de apresentação ao vivo.
-speechiness_%: Presença de palavras faladas.
+1. `track_name`: Nome da música  
+
+2. `artist(s)_name`: Nome do(s) artista(s) da música  
+
+3. `artist_count`: Quantidade de artistas na faixa  
+
+4. `released_year`: Ano de lançamento da música  
+
+5. `released_month`: Mês de lançamento  
+
+6. `released_day`: Dia do mês em que foi lançada  
+
+7. `in_spotify_playlists`: Quantidade de playlists no Spotify contendo a música  
+
+8. `in_spotify_charts`: Presença e posição da música nas paradas do Spotify  
+
+9. `streams`: Total de reproduções no Spotify  
+
+10. `in_apple_playlists`: Quantidade de playlists da Apple Music contendo a música  
+
+11. `in_apple_charts`: Presença e posição da música nas paradas da Apple Music  
+
+12. `in_deezer_playlists`: Quantidade de playlists no Deezer contendo a música  
+
+13. `in_deezer_charts`: Presença e posição da música nas paradas do Deezer  
+
+14. `in_shazam_charts`: Presença e posição da música nas paradas do Shazam  
+
+15. `bpm`: Batidas por minuto, medida do tempo da música  
+
+16. `key`: Tom da música  
+
+17. `mode`: Modo da música (maior ou menor)  
+
+18. `danceability_%`: Percentual indicando o quão dançante a música é  
+
+19. `valence_%`: Positividade do conteúdo musical da música  
+
+20. `energy_%`: Nível de energia percebido na música  
+
+21. `acousticness_%`: Quantidade de elementos acústicos na música  
+
+22. `instrumentalness_%`: Quantidade de conteúdo instrumental na música  
+
+23. `liveness_%`: Presença de elementos de apresentação ao vivo  
+
+24. `speechiness_%`: Quantidade de palavras faladas na música  
 
 ## Possíveis Casos de Uso
 
